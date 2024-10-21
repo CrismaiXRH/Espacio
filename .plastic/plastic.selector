@@ -1,0 +1,4 @@
+repository "Espacio@CrismaiX@cloud"
+  path "/"
+    br "/main"
+    co "/main"
